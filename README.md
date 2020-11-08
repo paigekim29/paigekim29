@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻
+
+🌱 I’m currently learning JavaScript, html, css
+📫 How to reach me:
+email: paigekim29@gmail.com
+blog: https://paigekim29.tistory.com/
 
 <!--
 **paigekim29/paigekim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
