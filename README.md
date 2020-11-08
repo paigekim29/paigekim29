@@ -1,10 +1,10 @@
 ### Hello Everyone 👋
 
-While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 \n
-
-🌱 I’m currently learning JavaScript, html, css \n
-📫 How to reach me:\n
-email: paigekim29@gmail.com \n
+While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 <br />
+<br />
+🌱 I’m currently learning JavaScript, html, css <br />
+📫 How to reach me:<br />
+email: paigekim29@gmail.com <br />
 blog: https://paigekim29.tistory.com/
 
 <!--
