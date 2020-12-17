@@ -9,8 +9,6 @@ blog: https://paigekim29.medium.com/
 
 project: <br />
 https://paigekim29.github.io/paige-talk/ <br />
-https://paigekim29.github.io/paige-line/ <br />
-https://paigekim29.github.io/pre-sprint-calculator/ <br />
 https://paigekim29.github.io/pre-sprint-twittler/ <br />
 https://paigekim29.github.io/pre-sprint-tree-ui/ <br />
 https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
