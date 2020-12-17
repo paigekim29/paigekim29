@@ -7,6 +7,14 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/
 
+project: <br />
+https://paigekim29.github.io/paige-talk/ <br />
+https://paigekim29.github.io/paige-line/ <br />
+https://paigekim29.github.io/pre-sprint-calculator/ <br />
+https://paigekim29.github.io/pre-sprint-twittler/ <br />
+https://paigekim29.github.io/pre-sprint-tree-ui/ <br />
+https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
+
 <!--
 **paigekim29/paigekim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
