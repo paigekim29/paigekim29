@@ -2,7 +2,7 @@
 
 While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 <br />
 <br />
-🌱 I’m currently learning JavaScript, html, css <br />
+🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React <br />
 📫 How to reach me:<br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/
@@ -18,7 +18,7 @@ https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
