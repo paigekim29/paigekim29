@@ -13,6 +13,9 @@ https://paigekim29.github.io/pre-sprint-twittler/ <br />
 https://paigekim29.github.io/pre-sprint-tree-ui/ <br />
 https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paigekim29&" alt="paigekim29" /></p>
+
 <!--
 **paigekim29/paigekim29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
