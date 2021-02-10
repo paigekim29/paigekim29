@@ -2,7 +2,7 @@
 
 While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 <br />
 <br />
-🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React <br />
+🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React, AWS deployment <br />
 📫 How to reach me:<br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/
