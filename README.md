@@ -37,7 +37,7 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 📫 **How to reach me:** <br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/ <br />
-
+<br />
 **PROJECTS:** <br />
 https://kudapach.com <br />
 https://paigekim29.github.io/paige-talk/ <br />
