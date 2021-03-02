@@ -2,6 +2,7 @@
 
 While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 
 <br />
+<br />
 🖌 **LANGUAGE** <br />
 ![Korean](https://img.shields.io/badge/Korean-red)
 ![English](https://img.shields.io/badge/English-black)
