@@ -22,12 +22,11 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 ![sequelize](https://img.shields.io/badge/Sequelize-black)
 ![typeORM](https://img.shields.io/badge/typeORM-black)
 
-<br />
 📫 How to reach me: <br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/ <br />
 
-**projects:** <br />
+**PROJECTS:** <br />
 https://kudapach.com <br />
 https://paigekim29.github.io/paige-talk/ <br />
 https://paigekim29.github.io/pre-sprint-twittler/ <br />
