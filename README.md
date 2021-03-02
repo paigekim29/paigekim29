@@ -33,7 +33,8 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 ![workbench](https://img.shields.io/badge/MySQLWorkbench-black)	
 ![zeplin](https://img.shields.io/badge/Zeplin-black)
 <br />
-📫 How to reach me: <br />
+<br />
+📫 **How to reach me:** <br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/ <br />
 
