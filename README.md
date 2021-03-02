@@ -5,7 +5,7 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 <br />
 🖌 **LANGUAGE** <br />
 ![Korean](https://img.shields.io/badge/Korean-red)
-![English](https://img.shields.io/badge/English-black)
+![English](https://img.shields.io/badge/English-blue)
 ![typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 <br/>
@@ -25,7 +25,7 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
 <br />
 🛠 **TOOLS** <br />
-![vscode](https://img.shields.io/badge/VScode-black?logo=visual-studio-code)
+![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
 ![webstorm](https://img.shields.io/badge/WebStorm-black?logo=webstorm)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)	
 ![postman](https://img.shields.io/badge/Postman-black?logo=postman) 
