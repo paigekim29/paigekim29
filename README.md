@@ -23,7 +23,7 @@ While working as a hotelier, I always had a desire to study coding. I am looking
 ![typeORM](https://img.shields.io/badge/typeORM-black)
 
 <br />
-📫 **How to reach me:** <br />
+📫 How to reach me: <br />
 email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/ <br />
 
