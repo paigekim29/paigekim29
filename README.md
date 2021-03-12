@@ -39,6 +39,7 @@ email: paigekim29@gmail.com <br />
 blog: https://paigekim29.medium.com/ <br />
 <br />
 **PROJECTS:** <br />
+https://cloud-bookstore.com <br />
 https://kudapach.com <br />
 https://paigekim29.github.io/paige-talk/ <br />
 https://paigekim29.github.io/pre-sprint-twittler/ <br />
