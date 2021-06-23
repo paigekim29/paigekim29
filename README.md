@@ -1,8 +1,5 @@
 ### Hello Everyone 👋
 
-While working as a hotelier, I always had a desire to study coding. I am looking forward to my career shift after studying👩🏽‍💻 
-<br />
-<br />
 🖌 **LANGUAGE** <br />
 ![Korean](https://img.shields.io/badge/Korean-red)
 ![English](https://img.shields.io/badge/English-blue)
@@ -41,10 +38,5 @@ blog: https://paigekim29.medium.com/ <br />
 **PROJECTS:** <br />
 https://cloud-bookstore.com <br />
 https://kudapach.com <br />
-https://paigekim29.github.io/paige-talk/ <br />
-https://paigekim29.github.io/pre-sprint-twittler/ <br />
-https://paigekim29.github.io/pre-sprint-tree-ui/ <br />
-https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
-
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paigekim29&" alt="paigekim29" /></p>
