@@ -3,9 +3,9 @@
 🖌 **LANGUAGE** <br />
 ![Korean](https://img.shields.io/badge/Korean-red)
 ![English](https://img.shields.io/badge/English-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=Typescript)
 
 🌱 **FRONT-END** <br />
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=Typescript)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?logo=Next.JS)
 ![AntDesign](https://img.shields.io/badge/AntDesign-black?logo=AntDesign)
