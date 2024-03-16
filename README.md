@@ -1,9 +1,5 @@
 # 🐣 Front-End Developer
 
-🖌 **LANGUAGE** <br />
-![Korean](https://img.shields.io/badge/Korean-red)
-![English](https://img.shields.io/badge/English-blue)
-
 🌱 **FRONT-END** <br />
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=Typescript)
 ![React](https://img.shields.io/badge/React-black?logo=react)
